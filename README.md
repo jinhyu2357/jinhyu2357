@@ -1,5 +1,5 @@
 # 💫 About Me:
-I mainly make math videos using manim. 
+I mainly make math videos using manim. helper : kermag (a little)
 
 
 ## 🌐 Socials:
